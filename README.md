@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="preview.gif" width="400" />
+<img src="preview.png" width="400" />
 
 
 ### Links
