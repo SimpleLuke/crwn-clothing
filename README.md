@@ -17,7 +17,7 @@ Users should be able to:
 
 - Sign in with their google accounts or sign up with email.
 - Add items to their shopping cart.
-- Checkout by through Stripe by using credit card.
+- Checkout through Stripe by using a credit card.
 
 ### Screenshot
 
