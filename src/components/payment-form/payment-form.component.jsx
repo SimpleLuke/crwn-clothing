@@ -57,6 +57,10 @@ const PaymentForm = () => {
 
   return (
     <PaymentFormContainer>
+      <p style={{ color: "red", textAlign: "center" }}>
+        Please use card number - 4242 4242 4242 4242, a valid future date, any
+        three-digit CVC for testing.
+      </p>
       <FormContainer onSubmit={paymentHandler}>
         <h2>Credit Card Payment:</h2>
         <CardElement />
