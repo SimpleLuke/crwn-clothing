@@ -34,7 +34,7 @@ Users should be able to:
 - Redux
 - Styled-Components
 - Stripe API
-- Firebase
+- Firebase authentication and Firestore
 
 ## Author
 
